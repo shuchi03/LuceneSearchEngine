@@ -11,6 +11,5 @@ To build and run the jar files, change directory to LuceneSearchEngine by using 
 
 3) To run the trec_eval on query result, change directory to trec_eval-9.0.7 by using below command - <br />
    `cd trec_eval-9.0.7` <br />
-   
-  The result of queries is stored in queryResult file. To run trec_eval on this file, use below command - <br />
+   The result of queries is stored in queryResult file. To run trec_eval on this file, use below command - <br />
   `./trec_eval '../cran/QRelsCorrectedforTRECeval' '../queryResult'`
